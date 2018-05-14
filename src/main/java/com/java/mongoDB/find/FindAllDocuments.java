@@ -1,4 +1,4 @@
-package com.java.mongDB.find;
+package com.java.mongoDB.find;
 
 import org.bson.Document;
 
