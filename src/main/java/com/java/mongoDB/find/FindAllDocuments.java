@@ -13,9 +13,9 @@ public class FindAllDocuments {
 
 		MongoClient client = new MongoClient();
 
-		MongoDatabase database = client.getDatabase("information");
+		MongoDatabase database = client.getDatabase("datasets");
 
-		MongoCollection<Document> collection = database.getCollection("users");
+		MongoCollection<Document> collection = database.getCollection("stocks");
 
 		// 1st way
 		/*

@@ -1,0 +1,5 @@
+mongoimport -d datasets -c companies --file C:/MongoDataSets/companies.json
+mongoimport -d datasets -c enron --file C:/MongoDataSets/enron.json
+mongoimport -d datasets -c stocks --file C:/MongoDataSets/stocks.json
+mongoimport -d datasets -c worldbank --file C:/MongoDataSets/world_bank.json
+mongoimport -d datasets -c zips --file C:/MongoDataSets/zips.json
