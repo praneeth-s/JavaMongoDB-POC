@@ -12,4 +12,4 @@ How to use:
 
 4. Import the project into eclipse IDE as maven project. 
 
-5. Run the java file as java application for the corresponding read, write etc. operations for the desired outputs.
+5. Run the java program as java application for the corresponding read, write etc. operations for the desired outputs.
